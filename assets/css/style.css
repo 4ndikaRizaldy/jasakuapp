@@ -1323,6 +1323,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
   transition: var(--transition-timing);
 }
 
+
 .product-grid .showcase-title:hover { color: var(--eerie-black); }
 
 .product-grid .showcase-rating {
